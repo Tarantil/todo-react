@@ -1,0 +1,14 @@
+.todo-list-item {
+	width: 100%;
+}
+.todo-list-item span{
+	margin-right: auto;
+	display: block;
+}
+.done{
+	text-decoration: line-through;
+}
+.important{
+	color: darkcyan;
+	font-weight: bold;
+}
